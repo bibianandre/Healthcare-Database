@@ -1,2 +1,2 @@
 # Healthcare-Database
-database project
+Database project - Healthcare Database
